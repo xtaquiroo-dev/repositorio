@@ -8,6 +8,6 @@ public class Empleado {
         s.accesoPublico(); 
         s.accesoProtegido(); 
         s.accesoPaquete(); 
-        //s.accesoPrivado();   // analizar 
+        //s.accesoPrivado();   // analizar xd
     } 
 } 
